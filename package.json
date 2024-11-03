@@ -21,6 +21,6 @@
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.7",
     "vite-plugin-solid": "^2.10.2",
-    "tailwindcss-rtl": "^4.0.0"
+    "tailwindcss-rtl": "^0.7.3"
   }
 }
